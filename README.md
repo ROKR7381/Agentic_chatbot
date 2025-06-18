@@ -1,1 +1,1 @@
-### End to End Project on Agentic AI ChatBot where multiple tools has been used which interact and retrieve the contex based on prompts.
+### End to End Project on Agentic AI ChatBot where multiple tools has been used which interact and retrieve the contex based on prompts.This is an industrial grade LLMOPS project.
